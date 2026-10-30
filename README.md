@@ -1,6 +1,6 @@
 # David Christianson
 
-I build systems for processing data. I've spent a career moving between data federation, streaming analytics, e-commerce, and AI applications at scale.
+I build systems for processing data at scale. I've spent a career moving between data federation, streaming analytics, e-commerce, and AI applications.
 
 Off hours I build for retro hardware because constraints fuel creativity.
 
