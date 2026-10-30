@@ -2,7 +2,7 @@
 
 I build systems for processing data at scale. I've spent a career moving between data federation, streaming analytics, e-commerce, and AI applications.
 
-Off hours I build for retro hardware because constraints fuel creativity.
+On the occasional off hour I build for retro hardware because constraints fuel creativity.
 
 ### Selected projects
 - **[vcs-lisp](https://github.com/DChristianson/vcs-lisp)** — a Lisp interpreter
