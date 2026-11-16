@@ -1,4 +1,4 @@
-# David Christianson
+# Dave Christianson
 
 I build systems for processing data at scale. I've spent a career moving between data federation, streaming analytics, e-commerce, and AI applications.
 
